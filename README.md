@@ -1,4 +1,1 @@
-ALP
-===
-
-Azeri Language Pack
+Azerbaijani language pack for Cypht webmail
